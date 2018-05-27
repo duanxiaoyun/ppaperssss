@@ -1,0 +1,284 @@
+fileFormatVersion: 2
+guid: 86834e0e95ace6946a43fdd24be6038c
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bone1000
+    100004: Bone1001
+    100006: Bone1002
+    100008: Bone1003
+    100010: Bone1004
+    100012: Bone1005
+    100014: Bone1006
+    100016: Bone1007
+    100018: Bone1008
+    100020: Bone1009
+    100022: Bone1010
+    100024: Bone1011
+    100026: Bone1012
+    100028: Bone1013
+    100030: Bone975
+    100032: Bone976
+    100034: Bone977
+    100036: Bone978
+    100038: Bone979
+    100040: Bone980
+    100042: Bone981
+    100044: Bone982
+    100046: Bone983
+    100048: Bone984
+    100050: Bone985
+    100052: Bone986
+    100054: Bone987
+    100056: Bone988
+    100058: Bone989
+    100060: Bone990
+    100062: Bone991
+    100064: Bone992
+    100066: Bone993
+    100068: Bone994
+    100070: Bone995
+    100072: Bone996
+    100074: Bone997
+    100076: Bone998
+    100078: Bone999
+    100080: Object131
+    100082: Object132
+    100084: Object133
+    400000: //RootNode
+    400002: Bone1000
+    400004: Bone1001
+    400006: Bone1002
+    400008: Bone1003
+    400010: Bone1004
+    400012: Bone1005
+    400014: Bone1006
+    400016: Bone1007
+    400018: Bone1008
+    400020: Bone1009
+    400022: Bone1010
+    400024: Bone1011
+    400026: Bone1012
+    400028: Bone1013
+    400030: Bone975
+    400032: Bone976
+    400034: Bone977
+    400036: Bone978
+    400038: Bone979
+    400040: Bone980
+    400042: Bone981
+    400044: Bone982
+    400046: Bone983
+    400048: Bone984
+    400050: Bone985
+    400052: Bone986
+    400054: Bone987
+    400056: Bone988
+    400058: Bone989
+    400060: Bone990
+    400062: Bone991
+    400064: Bone992
+    400066: Bone993
+    400068: Bone994
+    400070: Bone995
+    400072: Bone996
+    400074: Bone997
+    400076: Bone998
+    400078: Bone999
+    400080: Object131
+    400082: Object132
+    400084: Object133
+    4300000: Object133
+    4300002: Object132
+    4300004: Object131
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Object131
+    13700002: Object132
+    13700004: Object133
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 310
+      wrapMode: 4
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone975
+        weight: 1
+      - path: Bone975/Bone976
+        weight: 1
+      - path: Bone975/Bone976/Bone977
+        weight: 1
+      - path: Bone975/Bone976/Bone977/Bone978
+        weight: 1
+      - path: Bone975/Bone976/Bone977/Bone978/Bone979
+        weight: 1
+      - path: Bone975/Bone976/Bone977/Bone978/Bone979/Bone980
+        weight: 1
+      - path: Bone975/Bone976/Bone977/Bone978/Bone979/Bone980/Bone981
+        weight: 1
+      - path: Bone975/Bone976/Bone977/Bone978/Bone979/Bone980/Bone981/Bone982
+        weight: 1
+      - path: Bone975/Bone976/Bone977/Bone978/Bone979/Bone980/Bone981/Bone982/Bone983
+        weight: 1
+      - path: Bone975/Bone976/Bone977/Bone978/Bone979/Bone980/Bone981/Bone982/Bone983/Bone984
+        weight: 1
+      - path: Bone975/Bone976/Bone977/Bone978/Bone979/Bone980/Bone981/Bone982/Bone983/Bone984/Bone985
+        weight: 1
+      - path: Bone975/Bone976/Bone977/Bone978/Bone979/Bone980/Bone981/Bone982/Bone983/Bone984/Bone985/Bone986
+        weight: 1
+      - path: Bone975/Bone976/Bone977/Bone978/Bone979/Bone980/Bone981/Bone982/Bone983/Bone984/Bone985/Bone986/Bone987
+        weight: 1
+      - path: Bone988
+        weight: 1
+      - path: Bone988/Bone989
+        weight: 1
+      - path: Bone988/Bone989/Bone990
+        weight: 1
+      - path: Bone988/Bone989/Bone990/Bone991
+        weight: 1
+      - path: Bone988/Bone989/Bone990/Bone991/Bone992
+        weight: 1
+      - path: Bone988/Bone989/Bone990/Bone991/Bone992/Bone993
+        weight: 1
+      - path: Bone988/Bone989/Bone990/Bone991/Bone992/Bone993/Bone994
+        weight: 1
+      - path: Bone988/Bone989/Bone990/Bone991/Bone992/Bone993/Bone994/Bone995
+        weight: 1
+      - path: Bone988/Bone989/Bone990/Bone991/Bone992/Bone993/Bone994/Bone995/Bone996
+        weight: 1
+      - path: Bone988/Bone989/Bone990/Bone991/Bone992/Bone993/Bone994/Bone995/Bone996/Bone997
+        weight: 1
+      - path: Bone988/Bone989/Bone990/Bone991/Bone992/Bone993/Bone994/Bone995/Bone996/Bone997/Bone998
+        weight: 1
+      - path: Bone988/Bone989/Bone990/Bone991/Bone992/Bone993/Bone994/Bone995/Bone996/Bone997/Bone998/Bone999
+        weight: 1
+      - path: Bone988/Bone989/Bone990/Bone991/Bone992/Bone993/Bone994/Bone995/Bone996/Bone997/Bone998/Bone999/Bone1000
+        weight: 1
+      - path: Bone1001
+        weight: 1
+      - path: Bone1001/Bone1002
+        weight: 1
+      - path: Bone1001/Bone1002/Bone1003
+        weight: 1
+      - path: Bone1001/Bone1002/Bone1003/Bone1004
+        weight: 1
+      - path: Bone1001/Bone1002/Bone1003/Bone1004/Bone1005
+        weight: 1
+      - path: Bone1001/Bone1002/Bone1003/Bone1004/Bone1005/Bone1006
+        weight: 1
+      - path: Bone1001/Bone1002/Bone1003/Bone1004/Bone1005/Bone1006/Bone1007
+        weight: 1
+      - path: Bone1001/Bone1002/Bone1003/Bone1004/Bone1005/Bone1006/Bone1007/Bone1008
+        weight: 1
+      - path: Bone1001/Bone1002/Bone1003/Bone1004/Bone1005/Bone1006/Bone1007/Bone1008/Bone1009
+        weight: 1
+      - path: Bone1001/Bone1002/Bone1003/Bone1004/Bone1005/Bone1006/Bone1007/Bone1008/Bone1009/Bone1010
+        weight: 1
+      - path: Bone1001/Bone1002/Bone1003/Bone1004/Bone1005/Bone1006/Bone1007/Bone1008/Bone1009/Bone1010/Bone1011
+        weight: 1
+      - path: Bone1001/Bone1002/Bone1003/Bone1004/Bone1005/Bone1006/Bone1007/Bone1008/Bone1009/Bone1010/Bone1011/Bone1012
+        weight: 1
+      - path: Bone1001/Bone1002/Bone1003/Bone1004/Bone1005/Bone1006/Bone1007/Bone1008/Bone1009/Bone1010/Bone1011/Bone1012/Bone1013
+        weight: 1
+      - path: Object131
+        weight: 1
+      - path: Object132
+        weight: 1
+      - path: Object133
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
